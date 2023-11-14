@@ -1,2 +1,2 @@
-# peaceblog
+# PeaceBlog
  My Personal Blog
